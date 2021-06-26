@@ -21,13 +21,6 @@ The P-value for Lot1 is 1 which means it is not significant and we fail to rejec
 
 ![T_test_lot_1](/Resources/T_test_lot_1.png)
 
-## Study Design: MechaCar vs Competition
-
-A potential statistical study can be done to compare the performance of MechaCar’s versus competition. For this study design, it is suggested that the following metrics be used: performance rating, class, cost, city and highway fuel efficiency, horsepower, and safety ratings as these are top metrics considered by consumers. Each of these variables would be numerical, except class which would be categorical. Data would be needed for each of these metrics for each of MechaCar’s vehicles and the competition’s vehicles that will be included in the study. The alternative hypothesis would be: How does class, cost, city and highway fuel efficiency, horsepower, and safety ratings influence the performance rating of a vehicle. The null hypothesis would be: the performance rating of a vehicle has no correlation with the vehicle’s class, cost, city and highway fuel efficiency, horsepower, and/ or safety ratings.
-
-The statistical test that would be performed include: multiple linear regression, to evaluate the significance of the relationship between the independent variables—class, cost, city and highway fuel efficiency, horsepower, model and safety ratings—and the dependent variable, performance rating. This regression would need to be done on both data sets, MechaCar’s and the competitions, and the results would then need to be evaluated. Moreover, a summary analysis grouped by class, cost, city and highway fuel efficiency for MechaCar’s and the competitions should be provided to illustrate how class type features differ between each company’s data set. A two-sample t.test can then be performed to compared the mean of each metric from each dataset and level of significance can be determined. 
-
-
 
 
 The p-value for Lot2 is 0.61 which is greater than the 0.05% significance level and is not significant and we fail to reject the null hypothesis.
@@ -38,6 +31,13 @@ The p-value for Lot2 is 0.61 which is greater than the 0.05% significance level 
 Lot 3 is statistically significant because the p-value is less than 0.04, which means there is significant evidence to reject the null hypothesis. 
 
 ![Lot_3_t_test](/Resources/Lot_3_t_test.png)
+
+
+## Study Design: MechaCar vs Competition
+
+A potential statistical study can be done to compare the performance of MechaCar’s versus competition. For this study design, it is suggested that the following metrics be used: performance rating, class, cost, city and highway fuel efficiency, horsepower, and safety ratings as these are top metrics considered by consumers. Each of these variables would be numerical, except class which would be categorical. Data would be needed for each of these metrics for each of MechaCar’s vehicles and the competition’s vehicles that will be included in the study. The alternative hypothesis would be: How does class, cost, city and highway fuel efficiency, horsepower, and safety ratings influence the performance rating of a vehicle. The null hypothesis would be: the performance rating of a vehicle has no correlation with the vehicle’s class, cost, city and highway fuel efficiency, horsepower, and/ or safety ratings.
+
+The statistical test that would be performed include: multiple linear regression, to evaluate the significance of the relationship between the independent variables—class, cost, city and highway fuel efficiency, horsepower, model and safety ratings—and the dependent variable, performance rating. This regression would need to be done on both data sets, MechaCar’s and the competitions, and the results would then need to be evaluated. Moreover, a summary analysis grouped by class, cost, city and highway fuel efficiency for MechaCar’s and the competitions should be provided to illustrate how class type features differ between each company’s data set. A two-sample t.test can then be performed to compared the mean of each metric from each dataset and level of significance can be determined. 
 
 
 
