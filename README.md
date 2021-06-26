@@ -16,15 +16,18 @@ The table “total summary” illustrates the mean, median, variance, and standa
 
 
 ## ## T-Tests on Suspension Coils
-Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
+The P-value for Lot1 is 1 which means it is not significant and we fail to reject the null hypothesis because it greater than the 0.05% significance level.  
 
-![T-Test_deliverable_3](/Resources/T-Test_deliverable_3.png)
+![T_test_lot_1](/Resources/T_test_lot_1.png)
 
-![Lot_1_t_test](/Resources/Lot_1_t_test.png)
+![Lot2_t_test](/Resources/Lot2_t_test.png)
 
-
-![Lot_2_t_test](/Resources/Lot_2_t_test.png)
+The p-value for Lot2 is 0.61 which is greater than the 0.05% significance level and is not significant and we fail to reject the null hypothesis.
 
 ![Lot_3_t_test](/Resources/Lot_3_t_test.png)
+
+Lot 3 is statistically significant because the p-value is less than 0.04, which means there is significant evidence to reject the null hypothesis. 
+
+
 
