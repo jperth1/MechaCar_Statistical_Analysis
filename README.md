@@ -21,13 +21,16 @@ The P-value for Lot1 is 1 which means it is not significant and we fail to rejec
 
 ![T_test_lot_1](/Resources/T_test_lot_1.png)
 
-![Lot2_t_test](/Resources/Lot2_t_test.png)
 
 The p-value for Lot2 is 0.61 which is greater than the 0.05% significance level and is not significant and we fail to reject the null hypothesis.
 
-![Lot_3_t_test](/Resources/Lot_3_t_test.png)
+![Lot2_t_test](/Resources/Lot2_t_test.png)
+
 
 Lot 3 is statistically significant because the p-value is less than 0.04, which means there is significant evidence to reject the null hypothesis. 
+
+![Lot_3_t_test](/Resources/Lot_3_t_test.png)
+
 
 
 
